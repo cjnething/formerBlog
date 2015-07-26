@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Post History</title>
+	<link href="http://cjnething.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://cjnething.github.io/blog"/>
+	<updated>2015-04-01T22:12:28-07:00</updated>
+	<id>http://cjnething.github.io/blog</id>
+	<author>
+		<name>Julia Nething</name>
+		<email>cjnething@gmail.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Why I Chose Hack Reactor</title>
+			<link href="http://cjnething.github.io/blog/2015/04/01/why-hack-reactor"/>
+			<updated>2015-04-01T00:00:00-07:00</updated>
+			<id>http://cjnething.github.io//blog/2015/04/01/why-hack-reactor</id>
+			<content type="html">&lt;p&gt;Welcome to my blog! When I was first researching coding bootcamps, I read a lot of student blogs about their experiences, and those blogs really helped me decide which school was right for me. So, as a way of paying it forward, this is the first in what I hope will be many posts about Hack Reactor.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-coding-bootcamps&quot;&gt;Why Coding Bootcamps?&lt;/h2&gt;
+&lt;p&gt;I took my first computer science class in my junior year in college and absolutely loved it. However, at that point it was too late to complete the entire CS major, so I finished the minor instead. After graduation, I was in a strange position where I knew enough about programming to know that I loved it, but I didn’t know enough to actuallly get a job. I tried studying on my own the summer after graduation, but there was really only so much that I could do without some guidance. Hence, coding bootcamps! &lt;/p&gt;
+
+&lt;h2 id=&quot;why-hack-reactor&quot;&gt;Why Hack Reactor?&lt;/h2&gt;
+&lt;p&gt;Choosing a coding bootcamp among the hundreds of schools across the country can seem pretty daunting. Each school is a huge investment both in terms of money and time, and you have to truly trust that the school is going to be worth the sacrifice. With that in mind, I researched a lot of different schools, and in the end only applied to (and was thankfully accepted at) Hack Reactor. Other schools are very effective and are a perfect fit for other people, but not necessarily for me. &lt;/p&gt;
+
+&lt;h2 id=&quot;main-decision-factors&quot;&gt;Main Decision Factors:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They teach JavaScript:&lt;/strong&gt; This is a much more popular language than other languages, such as Ruby, and I thought this would lead to better job offers&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They do not make you repeat class sections:&lt;/strong&gt; According to some blogs I read, Dev Bootcamp makes students repeat sections if they are struggling. This seeemed to me to be very demoralizing and also potentially very expensive.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;They are committed to diversity and equality:&lt;/strong&gt; The blogs that I read by female students made it seem like Hack Reactor was a very inclusive environment.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; In the heart of San Francisco, a very tech-centric city!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Outcomes:&lt;/strong&gt; Hack Reactor has the best employment statistics, bar none.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Reputation and Reviews:&lt;/strong&gt; Every review of Hack Reactor on Quora, Yelp, etc. is overwhelmingly positive. No one can fake that many wonderful reviews.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This post reflects months of research, and I completely understand why other prospective students might be confused or might choose another program. If you are in this research process and have any questions, whether about Hack Reactor or about what resources I used to decide, please leave a comment or send me an email!&lt;/p&gt;
+
+</content>
+		</entry>
+	
+
+</feed>
